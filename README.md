@@ -1,2 +1,2 @@
-# Html-devleri-Kodluyoruz
+# Html-Ödevleri-Kodluyoruz
 Bu repo html ödevleri için kullanılacaktır
