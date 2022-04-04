@@ -1,0 +1,40 @@
+body{
+    background-color: darkslategrey;
+    padding: 0;
+    margin: 0;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333333;
+}
+
+li span{
+padding: 16px;
+text-decoration: none;
+text-align: center;
+display: inline-block;
+color: white;
+font-size: larger;
+}
+li span:hover{
+color: red;
+}
+li{
+display: inline;
+}
+
+li a {
+float: right;
+display: block;
+color: white;
+text-align: center;
+padding: 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111111;
+}
