@@ -1,0 +1,31 @@
+
+.container{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+#search{
+    background-color:#EEEEEE;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 0;
+    
+ 
+}
+ul{
+    list-style: none;
+    padding: 0em;
+    margin: 0;
+}
+.footer{
+    text-align: center;
+    font-size: small;
+    margin: 10px;
+}
