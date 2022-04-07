@@ -8,3 +8,7 @@ Bu repo html ödevleri için kullanılacaktır
 - 1 Html sayfası 
 - 1 css
 - 1 img klasör vardır
+## Html - Bölüm Sonu Alıştırması
+- 1 img klasörü
+- 3 Html sayfası
+
