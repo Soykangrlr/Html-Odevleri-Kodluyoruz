@@ -18,4 +18,4 @@ Bu repo html ödevleri için kullanılacaktır
 ## Css - Odev 3
 - 1 html
 - 1 css
-# Css 1 ve 2 ' ci ödevler html ile aynı oldukları iöin tekrar yüklenmedim
+# Css 1 ve 2 ' ci ödevler html ile aynı oldukları için tekrar yüklenmedim
