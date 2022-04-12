@@ -1,10 +1,10 @@
 # Html-Ödevleri-Kodluyoruz
 Bu repo html ödevleri için kullanılacaktır
-## Html - Ödev 1  
+## Html(Css) - Ödev 1  
 - 3 Html sayfası 
 - 1 css
 - 1 img klasör vardır
-## Html - Ödev 2  
+## Html(Css) - Ödev 2  
 - 1 Html sayfası 
 - 1 css
 - 1 img klasör vardır
@@ -15,3 +15,7 @@ Bu repo html ödevleri için kullanılacaktır
 - 1 img klasörü
 - 1 html 
 - 1 css
+## Css - Odev 3
+- 1 html
+- 1 css
+# Css 1 ve 2 ' ci ödevler html ile aynı oldukları iöin tekrar yüklenmedim
