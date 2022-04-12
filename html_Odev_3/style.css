@@ -1,0 +1,34 @@
+body{
+    background-color: tan
+}
+h2{
+    margin: 10px;
+}
+#description{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+section{
+    width: 30%;
+   float: left;
+}
+.container{
+    width: 60%;
+    float: right;
+    margin-top: 25px;
+}
+span{
+    margin: 10px;
+}
+.container p{
+    display: inline-block;
+}
+h6{
+    background-color: brown;
+     font-style: italic; 
+     display: block;
+     padding-inline: 30px;
+     color: white;
+     margin: 0px;
+     width: max-content;
+}
