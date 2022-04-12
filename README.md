@@ -11,4 +11,7 @@ Bu repo html ödevleri için kullanılacaktır
 ## Html - Bölüm Sonu Alıştırması
 - 1 img klasörü
 - 3 Html sayfası
-
+## Html - Odev 3
+- 1 img klasörü
+- 1 html 
+- 1 css
